@@ -1,1 +1,1 @@
-# UHIJ
+# BookingAppointments class
